@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MicroChat:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/MicroChat_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="MicroChat/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MicroChat" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
